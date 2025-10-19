@@ -8,7 +8,7 @@ That way wallet can be extended in numerous ways, including partial, infinite or
 
 More info see in [TIPS-38](https://github.com/newton-blockchain/TIPs/issues/38).
 
-## Interface
+## Interfacel
 ### External messages
 1. Send arbitrary owner-formed message (the same functionality as v1, v2, v3)
 2. Deploy and install plugin
